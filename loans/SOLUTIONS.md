@@ -16,3 +16,4 @@ Neste tópico, você encontrará uma lista de soluções para o desafio [Emprés
 | `TypeScript` | https://github.com/lucazpinheiro/loans-service                           |
 | `TypeScript` | https://github.com/HenriqueSilverio/Loans.TypeScript                     |
 | `Go`         | https://github.com/josehenriquepg/loans-service                          |
+| `Nestjs`     | https://github.com/HernanySimao/api-customer-loans                       |
